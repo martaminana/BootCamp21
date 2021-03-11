@@ -6,8 +6,8 @@ Este repositorio es del analisis exploratorio que he realizado sobre los acciden
  
 ## Proyecyo:
 
-###  [Accidentes de tráfico de la ciudad de Madrid (2020)]
-![image](https://github.com/alexhuang1117/personal_projects/blob/master/pm25_analysis/images/model_arch.jpg?raw=true)
+###  Accidentes de tráfico de la ciudad de Madrid (2020)
+
 * Datos recogidos del portal de datos del Ayuntamiento de Madrid 
 * Hipótesis de partida (Que sexo tiene más accidentes, es la edad un riesgo extra a la hora de producir un accidente, será el mes de diciembre donde se producen más accidentes, los distritos del centro tendrán más ocurrencia de accidentes?)
 * Se han realizado una serie de fltrados (Los accidentes estaban representados en la hora de ocurrencia y se han dividido las 24 horas en Noche o Dia.
