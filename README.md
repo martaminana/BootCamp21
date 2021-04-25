@@ -22,7 +22,7 @@ Este repositorio es del analisis exploratorio que he realizado sobre los acciden
     * Por edades, los jovenes y de mediana edad, conduciendo un coche y motocicletas conducidas por jovenes son los accidentes con más porcentaje de ocurrencia
 # MACHINE LEARNING
 ## Ataques al corazón:
-* Datos recogidos de la página <a href= “ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files:”> web</a 
+* Datos recogidos de la página <a href="https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files:">web</a 
 * El dataset se compone de un total de 11 columnas, con información de pacientes que han tenido o no ataques al corazón, cabe distinguir las siguientes columnas:
     * Edad
     * Sexo
